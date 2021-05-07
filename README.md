@@ -54,3 +54,9 @@ It will show "RECV_SOCKET_ERROR(err_code=336130329) (Error Code: 50114) FriendLi
 
 ![1](https://user-images.githubusercontent.com/42508318/117267739-8f252800-ae91-11eb-8b8a-8a8cb1121f4f.png)    
 Finished
+
+## Optinal
+![스크린샷, 2021-05-07 12-49-02](https://user-images.githubusercontent.com/42508318/117395648-4b82fa80-af33-11eb-93d2-91133d26b090.png)
+![스크린샷, 2021-05-07 12-49-59](https://user-images.githubusercontent.com/42508318/117395657-50e04500-af33-11eb-9c9d-82ade39fa9c2.png)    
+Using [Topicons plus gnome shell extention](https://extensions.gnome.org/extension/1031/topicons/, "Gnome Shell Extention") to combine the Wine system tray into the top bar
+
