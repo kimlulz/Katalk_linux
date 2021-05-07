@@ -31,13 +31,14 @@ install wine gecko/mono if winecfg popup it..
 
   ![스크린샷, 2021-05-06 18-52-35](https://user-images.githubusercontent.com/42508318/117279013-3dce6600-ae9c-11eb-8c88-b1807265d0b5.png)
 ![스크린샷, 2021-05-06 18-53-39](https://user-images.githubusercontent.com/42508318/117279168-67878d00-ae9c-11eb-8272-88e7dfb23098.png)    
-Select Windows 10 and add library "d3dx11_43" and exit      
+Select Windows 10 and add library "d3dx11_43" and click Apply.
 
  ![스크린샷, 2021-05-06 18-54-59](https://user-images.githubusercontent.com/42508318/117279335-969dfe80-ae9c-11eb-83bb-7768de0d40c4.png)   
 Select d3dx11, gdiplus, gecko, mono28    
 
 ![스크린샷, 2021-05-06 18-57-30](https://user-images.githubusercontent.com/42508318/117279746-f98f9580-ae9c-11eb-903b-d9580aeb9ad9.png)    
 Download Kakaotalk installer and select installer file    
+process of installation same with windows
 
 ![스크린샷, 2021-05-06 18-58-58](https://user-images.githubusercontent.com/42508318/117279993-1f1c9f00-ae9d-11eb-8be6-9a5d5e3738e8.png)    
 Do not check "카카오톡 실행" for make shortcut.    
@@ -45,10 +46,11 @@ Do not check "카카오톡 실행" for make shortcut.
 ![스크린샷, 2021-05-06 18-59-48](https://user-images.githubusercontent.com/42508318/117280146-44111200-ae9d-11eb-917f-48f4059f9b80.png)    
 Kakaotalk -> Next -> Next    
 
+## Run
 ![스크린샷, 2021-05-06 19-00-33](https://user-images.githubusercontent.com/42508318/117280242-5c812c80-ae9d-11eb-967b-11d3f5c9ae38.png)    
 Run Kakaotalk    
 
-will show "RECV_SOCKET_ERROR(err_code=336130329) (Error Code: 50114) FriendList.".  just retry.
+It will show "RECV_SOCKET_ERROR(err_code=336130329) (Error Code: 50114) FriendList. or LOCO protocol".  just retry.
 
 ![1](https://user-images.githubusercontent.com/42508318/117267739-8f252800-ae91-11eb-8b8a-8a8cb1121f4f.png)    
 Finished
