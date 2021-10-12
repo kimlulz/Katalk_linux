@@ -5,6 +5,8 @@
 
 ![스크린샷, 2021-05-10 13-51-53](https://user-images.githubusercontent.com/42508318/117608255-aec19680-b198-11eb-940c-f8e9b229d0f5.png)
 
+✅ Works on Ubuntu 20.04.3, 21.04
+
 ## Prepare
 ```
 sudo dpkg --add-architecture i386 
