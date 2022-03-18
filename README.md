@@ -1,4 +1,7 @@
 # Katalk_linux
+** OUTDATED!!! **
+USE https://github.com/jeonghanlee/kakaotalk-env
+
 
 ![1](https://user-images.githubusercontent.com/42508318/117267739-8f252800-ae91-11eb-8b8a-8a8cb1121f4f.png)
 ![2](https://user-images.githubusercontent.com/42508318/117267750-91878200-ae91-11eb-9e74-82c8fec96d42.png)
