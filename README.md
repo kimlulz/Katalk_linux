@@ -1,14 +1,12 @@
 # Katalk_linux
-** OUTDATED!!! **
-USE https://github.com/jeonghanlee/kakaotalk-env
-
+Alternative of `https://github.com/jeonghanlee/kakaotalk-env`
 
 ![1](https://user-images.githubusercontent.com/42508318/117267739-8f252800-ae91-11eb-8b8a-8a8cb1121f4f.png)
 ![2](https://user-images.githubusercontent.com/42508318/117267750-91878200-ae91-11eb-9e74-82c8fec96d42.png)
 
 ![스크린샷, 2021-05-10 13-51-53](https://user-images.githubusercontent.com/42508318/117608255-aec19680-b198-11eb-940c-f8e9b229d0f5.png)
 
-✅ Works on Ubuntu 20.04.3, 21.04
+✅ Works on Ubuntu 20.04.4
 
 ## Prepare
 ```
