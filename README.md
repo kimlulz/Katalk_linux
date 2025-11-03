@@ -53,6 +53,7 @@
 실행파일 실행 (Run Executable) -> 카카오톡 설치파일 선택 -> 카카오톡 설치(윈도우와 동일한 방법으로..)
 
 3. 아이콘 만들기
+
 -1. 아이콘 받아오기
 ```
 # (1) Binwalk 이용하여 아이콘 추출 (`binwalk` 패키지 설치 필요)
@@ -75,7 +76,6 @@ Type=Application
 Icon=~/.local/share/icons/wine/KakaoTalk.png
 EOF
 ```
-
 
 ---
 
